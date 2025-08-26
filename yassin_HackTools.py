@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # Title: YASSIN HACK TOOLS – Advanced Penetration Suite
 # Version: 2.0
-# Author: Yassin <contact@example.com>
+# Author: Yassin <benhaidayassine1.com>
 # License:GPL v3
 # Last-Modified: 2025-08-26
 
