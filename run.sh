@@ -2,7 +2,7 @@
 
 # YASSIN HACK TOOLS - Run Script
 # Version: 2.0
-# Author: Yassin
+# Author: Yassin <benhaidayassine1.com>
 # License: GPL v3
 
 # Colors for output
