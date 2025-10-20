@@ -4,15 +4,15 @@
 ![License](https://img.shields.io/badge/license-GPL%20v3-green.svg)
 ![Platform](https://img.shields.io/badge/platform-Ubuntu-red.svg)
 
-## 🚀 Overview
+##  Overview
 
 Yassin Hack Tools is a comprehensive penetration testing suite designed to transform your Ubuntu system into a powerful hacking machine. This tool provides an easy-to-use interface for installing and managing various security testing tools commonly used in ethical hacking and penetration testing.
 
-## ⚠️ **IMPORTANT DISCLAIMER**
+##  **IMPORTANT DISCLAIMER**
 
 This tool is designed for **educational purposes** and **authorized security testing only**. Users are responsible for ensuring they have proper authorization before testing any systems. The developers are not responsible for any misuse of these tools.
 
-## 🛠️ Features
+##  Features
 
 ### Core Tools Installation
 - **Network Scanning**: Nmap for network discovery and security auditing
@@ -37,7 +37,7 @@ This tool is designed for **educational purposes** and **authorized security tes
 - **Network Detection**: D-TECT for network reconnaissance
 - **Router Exploitation**: RouterSploit for router security testing
 
-## 📋 Prerequisites
+##  Prerequisites
 
 - Ubuntu Linux (recommended)
 - Python 3.x
@@ -45,7 +45,7 @@ This tool is designed for **educational purposes** and **authorized security tes
 - Internet connection
 - Sudo privileges
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Method 1: Using the Run Script (Recommended)
 ```bash
@@ -65,7 +65,7 @@ chmod +x yassin_HackTools.py
 python3 yassin_HackTools.py
 ```
 
-## 📖 Usage
+##  Usage
 
 1. **Launch the tool** using one of the methods above
 2. **Choose an option** from the menu:
@@ -75,7 +75,7 @@ python3 yassin_HackTools.py
 
 3. **Follow the prompts** to complete installation
 
-## 🛠️ Available Tools
+##  Available Tools
 
 | Option | Tool | Description |
 |--------|------|-------------|
@@ -100,7 +100,7 @@ python3 yassin_HackTools.py
 | 18 | **D-TECT** | Network reconnaissance tool |
 | 19 | **RouterSploit** | Router exploitation framework |
 
-## 📁 Installation Locations
+##  Installation Locations
 
 Most tools are installed in your home directory (`~`) in their respective folders:
 - `~/sqlmap/` - SQLMap
@@ -118,7 +118,7 @@ Most tools are installed in your home directory (`~`) in their respective folder
 - `~/D-TECT/` - D-TECT
 - `~/routersploit/` - RouterSploit
 
-## 🔧 Post-Installation
+##  Post-Installation
 
 After installation, you can run individual tools from their respective directories:
 
@@ -130,7 +130,7 @@ cd ~/RED_HAWK && php rhawk.php
 cd ~/weeman && python3 weeman.py
 ```
 
-## 🐛 Troubleshooting
+##  Troubleshooting
 
 ### Common Issues
 
@@ -148,11 +148,11 @@ sudo apt update
 sudo apt install -y git python3 python3-pip wget
 ```
 
-## 📄 License
+##  License
 
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
